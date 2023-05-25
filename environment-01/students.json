@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@mail.com",
+        "enrolled": true,
+        "semester": 3
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@mail.com",
+        "enrolled": false,
+        "semester": 2
+    },
+    {
+        "id": 3,
+        "name": "Alex Johnson",
+        "email": "alexjohnson@mail.com",
+        "enrolled": true,
+        "semester": 4
+    },
+    {
+        "id": 4,
+        "name": "Emily Wilson",
+        "email": "emilywilson@mail.com",
+        "enrolled": true,
+        "semester": 1
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "email": "michaelbrown@mail.com",
+        "enrolled": false,
+        "semester": 3
+    },
+    {
+        "id": 6,
+        "name": "Sophia Lee",
+        "email": "sophialee@mail.com",
+        "enrolled": true,
+        "semester": 2
+    },
+    {
+        "id": 7,
+        "name": "William Taylor",
+        "email": "williamtaylor@mail.com",
+        "enrolled": true,
+        "semester": 1
+    }
+]
